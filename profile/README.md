@@ -1,6 +1,6 @@
-# Knowledge Graph
-## Question Answering over Knowledge Graphs
-1. [KEQA_WSDM19](https://github.com/DEEP-PolyU/KEQA_WSDM19)
+# 1. Knowledge Graph
+## 1.1 Question Answering over Knowledge Graphs
+[KEQA_WSDM19](https://github.com/DEEP-PolyU/KEQA_WSDM19)
 
-# Network Learning
-## Attributed network embedding
+# 2. Network Learning
+## 2.1 Attributed network embedding
