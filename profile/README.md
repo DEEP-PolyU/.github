@@ -9,6 +9,7 @@ A knowledge graph (KG) consists of numerous triples, in which each triple, i.e.,
 Real-world KGs often contain many false assertions, which were inevitably injected during the construction of KGs. We propose to investigate error-aware KG learning to eliminate the impact of errors on KG-based systems.<br>
 [KAEL_WSDM23](https://github.com/DEEP-PolyU/KAEL_WSDM23)<br>
 [CAGED_CIKM22](https://github.com/DEEP-PolyU/CAGED_CIKM22)
+[LLM4EA NeurIPS24](https://github.com/chensyCN/llm4ea_official)
 
 ## 2. Attributed Network Learning
 Networks are widely adopted to represent the relations between objects in many disciplines. In real-world scenarios, nodes are often associated with a rich set of data describing their characteristics. We model these systems as attributed networks. Our goal is to develop effective, scalable, and human-centric learning algorithms for attributed networks, to enable their actionable patterns to be easily accessible and interpretable to data consumers.<br>
