@@ -8,7 +8,7 @@ A knowledge graph (KG) consists of numerous triples, in which each triple, i.e.,
 **1.2 Knowledge Graph Refinement**<br>
 Real-world KGs often contain many false assertions, which were inevitably injected during the construction of KGs. We propose to investigate error-aware KG learning to eliminate the impact of errors on KG-based systems.<br>
 [KAEL_WSDM23](https://github.com/DEEP-PolyU/KAEL_WSDM23)<br>
-[CAGED_CIKM22](https://github.com/DEEP-PolyU/CAGED_CIKM22)
+[CAGED_CIKM22](https://github.com/DEEP-PolyU/CAGED_CIKM22)<br>
 [LLM4EA NeurIPS24](https://github.com/chensyCN/llm4ea_official)
 
 ## 2. Attributed Network Learning
